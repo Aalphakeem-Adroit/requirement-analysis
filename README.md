@@ -80,3 +80,44 @@ Requirement Analysis involves several structured activities that help ensure the
   - Reviewing requirements with stakeholders to ensure they are accurate, complete, and feasible.  
   - Confirms that requirements meet business goals and user expectations.  
   - Helps identify errors early, reducing the risk of project failure.  
+
+
+## Types of Requirements
+
+### Functional Requirements  
+These specify **what the system should do**—the specific behaviors, features, and interactions it must support. In the context of a Booking Management System (inspired by hotel booking apps like Airbnb/OYO), functional requirements include:
+
+- **Hotel Onboarding and Management**  
+  - The system shall allow hotel managers to onboard a new hotel, update metadata, and upload images for listings. :contentReference[oaicite:0]{index=0}
+
+- **Search and Discovery**  
+  - The system shall enable users to search for hotels by location, availability, and room type. :contentReference[oaicite:1]{index=1}
+
+- **Viewing Hotel Details**  
+  - The system shall display detailed hotel information including room types, availability, pricing, and images. :contentReference[oaicite:2]{index=2}
+
+- **Reservation Handling**  
+  - The system shall allow users to create and cancel reservations for available rooms. :contentReference[oaicite:3]{index=3}
+
+- **Payment Processing**  
+  - The system shall facilitate booking transactions through integration with payment services. :contentReference[oaicite:4]{index=4}
+
+---
+
+### Non-functional Requirements  
+These define **how the system should be**—the qualities and constraints that shape its performance, reliability, and user experience. From the same domain and case study context, key non-functional requirements include:
+
+- **Consistency (no double booking)**  
+  - The system shall ensure strong consistency; once a booking is made and paid for, availability must update immediately to prevent overbooking. :contentReference[oaicite:5]{index=5}
+
+- **High Scalability and Concurrency Handling**  
+  - The system shall support high user concurrency, especially during peak periods, enabling many users to perform searches and bookings simultaneously. :contentReference[oaicite:6]{index=6}
+
+- **Low Latency / Fast Response Time**  
+  - The system shall respond quickly to search and booking requests to maintain a smooth user experience. :contentReference[oaicite:7]{index=7}
+
+- **Availability and Reliability**  
+  - The system shall be highly available and reliable, minimizing downtime and ensuring consistent access for users and hotel partners. :contentReference[oaicite:8]{index=8}
+
+- **Security and Data Integrity**  
+  - The system shall protect user data and transaction integrity, ensuring secure authentication, authorization, and payment handling. :contentReference[oaicite:9]{index=9}

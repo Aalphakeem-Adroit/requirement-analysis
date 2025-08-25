@@ -142,3 +142,31 @@ These define **how the system should be**—the qualities and constraints that s
 Below is the use case diagram illustrating the main actors and their interactions with the system.  
 
 ![Booking Management Use Case Diagram](alx-booking-uc.png)  
+
+
+## Acceptance Criteria  
+
+**Acceptance Criteria** are the predefined conditions that a software feature must meet to be considered complete and accepted by stakeholders. In Requirement Analysis, acceptance criteria ensure that all parties (stakeholders, developers, and testers) have a **clear and shared understanding** of what success looks like for a given feature.  
+
+### 🔑 Importance of Acceptance Criteria  
+- **Clarity and Alignment** – They provide a common definition of “done,” preventing misunderstandings between business and technical teams.  
+- **Testability** – They act as the basis for writing test cases, ensuring that features can be verified against business expectations.  
+- **Scope Control** – They help avoid scope creep by defining exactly what must be delivered.  
+- **User Satisfaction** – They ensure the delivered feature meets the intended user needs and business goals.  
+
+---
+
+### 📌 Example: Checkout Feature in the Booking Management System  
+
+**Feature:** Checkout process for booking confirmation.  
+
+**Acceptance Criteria:**  
+1. The system shall allow a user to proceed to checkout only after selecting a valid reservation.  
+2. The system shall display a summary of the booking, including hotel details, room type, price, and applicable taxes.  
+3. The user shall be able to choose a payment method (e.g., credit card, debit card, digital wallet).  
+4. Payment information shall be securely validated before processing.  
+5. The system shall confirm successful payment by displaying a booking confirmation message with a unique reservation ID.  
+6. The system shall send a confirmation email/SMS to the user within 5 minutes of successful checkout.  
+7. If payment fails, the system shall notify the user with an error message and allow retrying or selecting a different payment method.  
+
+---  

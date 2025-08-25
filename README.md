@@ -50,3 +50,33 @@ By defining the system’s **boundaries and priorities**, requirement analysis r
 
 ### 5. Improves Quality and User Satisfaction  
 Well-defined requirements ensure that the **final system meets both functional and non-functional needs** such as performance, usability, and security. This directly contributes to user satisfaction and overall system success.  
+
+
+## Key Activities in Requirement Analysis  
+
+Requirement Analysis involves several structured activities that help ensure the system is well-defined and aligned with stakeholder expectations. Below are the five key activities:  
+
+- **Requirement Gathering**  
+  - Collecting information about what stakeholders need from the system.  
+  - Involves interviews, surveys, observations, and reviewing existing documentation.  
+  - Focuses on capturing all possible requirements at an initial level.  
+
+- **Requirement Elicitation**  
+  - Engaging with stakeholders to **clarify, refine, and uncover hidden needs**.  
+  - Techniques include brainstorming sessions, workshops, prototyping, and use case discussions.  
+  - Ensures both functional and non-functional requirements are identified.  
+
+- **Requirement Documentation**  
+  - Recording the gathered and elicited requirements in a structured, clear, and precise format.  
+  - Common artifacts include **Software Requirement Specification (SRS)**, user stories, and use case diagrams.  
+  - Acts as a reference point throughout the SDLC.  
+
+- **Requirement Analysis and Modeling**  
+  - Examining requirements to detect conflicts, overlaps, or ambiguities.  
+  - Modeling the system using tools such as **flowcharts, data flow diagrams (DFD), and Unified Modeling Language (UML)** diagrams.  
+  - Helps visualize how the system should behave and interact with users.  
+
+- **Requirement Validation**  
+  - Reviewing requirements with stakeholders to ensure they are accurate, complete, and feasible.  
+  - Confirms that requirements meet business goals and user expectations.  
+  - Helps identify errors early, reducing the risk of project failure.  

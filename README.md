@@ -22,7 +22,7 @@ During requirement analysis, project teams interact with stakeholders to:
 - Resolve conflicts between different stakeholder needs.  
 - Define the **scope and boundaries** of the system to avoid misunderstandings.  
 
-### 🔑 Importance in the SDLC  
+### Importance in the SDLC  
 1. **Clarity and Alignment** – Ensures that developers, designers, testers, and stakeholders share the same understanding of the system.  
 2. **Reduced Errors and Costs** – Identifying issues early in the requirement phase prevents costly rework during development.  
 3. **Structured Roadmap** – Provides a blueprint that guides subsequent phases such as design, coding, testing, and deployment.  
@@ -126,19 +126,19 @@ These define **how the system should be**—the qualities and constraints that s
 
 **Use Case Diagrams** are a type of Unified Modeling Language (UML) diagram used in Requirement Analysis to represent the interactions between **actors** (users or external systems) and the **system**. They visually capture the functional requirements of a system, making it easier for stakeholders to understand how users will interact with it.  
 
-### 🔑 Benefits of Use Case Diagrams  
+### Benefits of Use Case Diagrams  
 - **Clarity** – Provide a simple visual representation of system functionality.  
 - **Communication** – Help bridge the gap between stakeholders and developers by showing system interactions.  
 - **Scope Definition** – Clearly outline the boundaries of the system and the roles of different actors.  
 - **Validation** – Allow stakeholders to verify that all required interactions are captured before moving to design and implementation.  
 
-### 🎭 Actors in the Booking Management System  
+### Actors in the Booking Management System  
 - **Guest/User** – Searches, views details, books, and cancels reservations.  
 - **Hotel Manager** – Manages hotel details, room availability, and prices.  
 - **Payment Gateway** – Handles payment transactions securely.  
 - **System Administrator** – Oversees system management and user accounts.  
 
-### 📌 Use Case Diagram for Booking Management System  
+### Use Case Diagram for Booking Management System  
 Below is the use case diagram illustrating the main actors and their interactions with the system.  
 
 ![Booking Management Use Case Diagram](alx-booking-uc.png)  
@@ -156,7 +156,7 @@ Below is the use case diagram illustrating the main actors and their interaction
 
 ---
 
-### 📌 Example: Checkout Feature in the Booking Management System  
+### Example: Checkout Feature in the Booking Management System  
 
 **Feature:** Checkout process for booking confirmation.  
 

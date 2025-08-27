@@ -148,7 +148,7 @@ Below is the use case diagram illustrating the main actors and their interaction
 
 **Acceptance Criteria** are the predefined conditions that a software feature must meet to be considered complete and accepted by stakeholders. In Requirement Analysis, acceptance criteria ensure that all parties (stakeholders, developers, and testers) have a **clear and shared understanding** of what success looks like for a given feature.  
 
-### 🔑 Importance of Acceptance Criteria  
+### Importance of Acceptance Criteria  
 - **Clarity and Alignment** – They provide a common definition of “done,” preventing misunderstandings between business and technical teams.  
 - **Testability** – They act as the basis for writing test cases, ensuring that features can be verified against business expectations.  
 - **Scope Control** – They help avoid scope creep by defining exactly what must be delivered.  
